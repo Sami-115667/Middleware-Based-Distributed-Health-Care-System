@@ -1,18 +1,11 @@
-# Middleware-Based-Distributed-Health-Care-System
+# Middleware-Based Distributed Image Processing and Classification System
+A complete C++ implementation of a distributed system for medical image classification using deep learning inference.
+
 
 ## Authors
 
 - Md Shamsur Rahman Sami 
 
-
-## Contact
-
-For questions or issues, refer to the project proposal document.
-
-
-# Middleware-Based Distributed Image Processing and Classification System
-
-A complete C++ implementation of a distributed system for medical image classification using deep learning inference.
 
 ## Architecture
 
